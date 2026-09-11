@@ -52,7 +52,7 @@ window.OLYMPUS = {
     { id: "9oz",    nombre: "9 oz",   precio: 9000,  forma: "vaso",   escala: 0.62 },
     { id: "16oz",   nombre: "16 oz",  precio: 16000, forma: "vaso",   escala: 0.82 },
     { id: "22oz",   nombre: "22 oz",  precio: 20000, forma: "vaso",   escala: 1 },
-    { id: "pecerapersonal", nombre: "Pecera Personal", precio: 27000, forma: "pecera", escala: 1 }
+    { id: "pecera", nombre: "Pecera Personal", precio: 27000, forma: "pecera", escala: 1 }
   ],
 
   /* ---------- Granizados: sabores ----------
