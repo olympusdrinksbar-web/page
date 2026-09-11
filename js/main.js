@@ -327,7 +327,7 @@
       if (halo) halo.style.setProperty("--glow", colors[1] || colors[0]);
 
       const what = flavor ? `${flavor.nombre.toLowerCase()} ${licorText(flavor)}` : "tu sabor favorito";
-      const name = size.forma === "pecera" ? `Pecera de ${what}` : `Granizado de ${size.nombre} de ${what}`;
+      const name = size.forma === "pecera" ? `${size.nombre} de ${what}` : `Granizado de ${size.nombre} de ${what}`;
       summaryName.textContent = name;
       summaryPrice.textContent = money(size.precio);
       if (waBuilder) {
