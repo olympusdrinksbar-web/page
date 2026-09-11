@@ -92,7 +92,7 @@ window.OLYMPUS = {
       nombre: "Aguardiente",
       precio: 140000,
       color: "#2EE6E6",
-      incluye: ["Pecera gigante escarchada", "Mix de granizado a tu elección", "Mix de gomitas", "4 shots en jeringa", "Aguardiente Amarillo"]
+      incluye: ["Pecera gigante escarchada", "Mix de granizado a tu elección", "Mix de gomitas", "4 shots en jeringa", "Media de Aguardiente Amarillo"]
     }
   ],
 
